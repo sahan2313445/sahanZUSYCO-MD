@@ -17,7 +17,7 @@ Creator : @darkmakerofc , @mr-nima-x
 
 module.exports = {
   OWNER_NUMBER: "94789281290",
-  SUDO_NUMBERS : "94789281290,94742314485",
+  SUDO_NUMBERS : "94789281290,94742314485,94756294146",
   OWNER_NAME: "『 *Rio King.X.Sahan* 』",
   BOT_NAME : "『 *Rio King.X.Sahan* 』",
   ZUSYCO_FILE : "ZUSYCO-QR",
@@ -28,7 +28,7 @@ module.exports = {
   },
   STOP_SEND : {
         WELCOME_MESSAGE : true,
-        GOODBYE_MESSAGE : false
+        GOODBYE_MESSAGE : true
     },
   DESABLE_WELCOME_GOODBYE_JIDS : [],
   TIME_ZONE :  "Asia/Colombo",
@@ -37,7 +37,7 @@ module.exports = {
   WORK_MODE_MESSAGE_SEND : true,
   CAPTION : '© 『 *Rio King.X.Sahan* 💗 』 ',
   STICKER_PACK : '[ 『 *Rio King.X.Sahan* 💗👑 』 ]',
-  BAD_WORDS : 'fuck,pussy',
+  BAD_WORDS : 'fuck,pussy,sex',
   ANTI_BAD : true,
   ANTI_LINKS : 'chat.whatsapp.com',
   ANTI_LINK : true,
@@ -72,12 +72,12 @@ module.exports = {
     "thugs" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-thugs.mp3",
 
   },
-  AUTO_STICKER : false,
+  AUTO_STICKER : true,
   STICKERS : {
     "pit" : "https://i.ibb.co/NVLMQDP/pit.webp",
     "agei" : "https://i.ibb.co/yqk8QQ9/agei.webp",
     "ne" : "https://i.ibb.co/N6Wb6mZ/ne.webp",
   },
-  LOAD_ANIMATION : false,
+  LOAD_ANIMATION : true,
  
 };
