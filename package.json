@@ -1,7 +1,7 @@
 {
-  "name": "ZUSYCO-MD",
+  "name": "『 *Rio King.X.Sahan-MD* 』",
   "version": "1.5.0",
-  "description": "Simple WhatsApp bot created by DarkMakerofc (mrnima) for Easy Your Works on Whatsapp.",
+  "description": "Simple WhatsApp bot created by Rio_Team (Sahan K SL) for Easy Your Works on Whatsapp.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -13,7 +13,7 @@
     "automation",
     "nodejs"
   ],
-  "author": "DarkMakerofc (mrnima)",
+  "author": "Rio_Team (sahan k sl)",
   "license": "ISC",
   "dependencies": {
     "@types/node": "^18.0.6",
